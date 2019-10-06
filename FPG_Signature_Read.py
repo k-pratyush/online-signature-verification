@@ -226,6 +226,6 @@ def FPG_Signature_Read(filename, showXY, showWV):
 
 #Example
 FPG_Signature_Read("MCYT_Signature_100/0000/0000f00.fpg", 1, 1)
-FPG_Signature_Read("MCYT_Signature_100/0000/0000f01.fpg", 1, 0)
-FPG_Signature_Read("MCYT_Signature_100/0000/0000f02.fpg", 0, 1)
-FPG_Signature_Read("MCYT_Signature_100/0000/0000f03.fpg", 0, 0)
+# FPG_Signature_Read("MCYT_Signature_100/0000/0000f01.fpg", 1, 0)
+# FPG_Signature_Read("MCYT_Signature_100/0000/0000f02.fpg", 0, 1)
+# FPG_Signature_Read("MCYT_Signature_100/0000/0000f03.fpg", 0, 0)
