@@ -2,3 +2,8 @@
 MCYT_Signature_100/
 
 MCYT_Signature_100
+training/
+old_data_csv/
+final_data.pkl
+clean_data.pkl
+clean_data_v2.pkl
