@@ -7,3 +7,15 @@ old_data_csv/
 final_data.pkl
 clean_data.pkl
 clean_data_v2.pkl
+
+__pycache__/
+*.pyc
+*.pkl
+.DS_Store
+*.csv
+*.xlsx
+*.h5
+*.zip
+*.tar.gz
+*.pkl
+training_data/
